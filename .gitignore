@@ -1,3 +1,4 @@
 data/*.zip
 products/tmp/
 products/*.tif*
+.ipynb_checkpoints/
