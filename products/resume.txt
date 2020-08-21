@@ -1,2 +1,3 @@
-Villa del Totoral: 719.1661339374422[hectareas]
-Fuego: 1699.3200000000002[hectareas]
+Villa del Totoral: 719.2[hectareas]
+Fuego 20200817: 1699.3[hectareas]
+Fuego 20200820: 6007.0[hectareas]
