@@ -12,7 +12,7 @@ Las imagenes correponden a:
 
 obtenidas desde https://scihub.copernicus.eu (via sentinelsat api).
 
-### 2020-08-20 
+### 2020-08-22
 
 ![2020-08-22 Falso Color - RGB](products/img_fc_rgb_20200822.png)
 
